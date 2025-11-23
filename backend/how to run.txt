@@ -1,0 +1,5 @@
+py -3.10 -m pip install flask
+py -3.10 -m pip install flask-cors
+cd ./backend/
+py -3.10 app.py
+run index.html
